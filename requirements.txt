@@ -1,0 +1,8 @@
+django==3.2
+mysqlclient
+Pillow
+djangorestframework
+django-cors-headers
+cloudinary
+djangorestframework-simplejwt
+whitenoise
